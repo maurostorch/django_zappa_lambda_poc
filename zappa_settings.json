@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "aws_region": "us-east-1",
+        "django_settings": "mysite.settings",
+        "profile_name": "mauro",
+        "project_name": "mysite",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-hvwxeuszu",
+        "certificate_arn": "arn:aws:acm:us-east-1:068468317259:certificate/d9a4aa23-c9a6-4a66-987d-550214afb792",
+        "domain": "app.storch.cloud"
+    }
+}
